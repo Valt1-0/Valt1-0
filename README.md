@@ -8,9 +8,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=valt1-0" alt="valt1-0" /></a> 
 
-</p>
-<p align="left">
-</p>
 
 <h3>Things I code with</h3>
 <p>
