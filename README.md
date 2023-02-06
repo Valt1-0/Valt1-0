@@ -1,4 +1,4 @@
-<h1><img src="![image](https://user-images.githubusercontent.com/80764455/216984665-8945c939-98ba-4ca6-a46d-c2e458a7ae9c.png)" width="30"/> Hey! Nice to see you.</h1>
+<h1><img src="https://media0.giphy.com/media/jpbnoe3UIa8TU8LM13/200w.webp?cid=ecf05e47d8cfaagmmar1dfiwjx5wd49llzyezwbeditfzyau&rid=200w.webp&ct=g" width="30"/> Hey! Nice to see you.</h1>
 
 <h2 align="center">Im Valentin from Caen, France <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/></h2>
 
