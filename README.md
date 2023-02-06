@@ -21,7 +21,7 @@
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
 
-<h2>OS</h2>
+<h2>OS Already use</h2>
 <p>
   <ul>
     <li><img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white"/></li>
