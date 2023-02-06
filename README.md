@@ -1,4 +1,4 @@
-<h3 align="center">Hi, Im Valentin from Caen, France 🇫🇷</h3>
+<h3 align="center">Hi, Im Valentin from Caen, France :fr:</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=valt1-0&label=Profile%20views&color=0e75b6&style=flat" alt="valt1-0" /> </p>
 
