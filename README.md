@@ -1,6 +1,6 @@
 <h1><img src="https://media0.giphy.com/media/jpbnoe3UIa8TU8LM13/200w.webp?cid=ecf05e47d8cfaagmmar1dfiwjx5wd49llzyezwbeditfzyau&rid=200w.webp&ct=g" width="30"/> Hey ! Nice to see you here.</h1>
 
-<h2 align="center">I'm Valentin from Caen, France <img src="https://media.tenor.com/PSz9yllgHT4AAAAC/mouse-wave-flag.gif" width="13"/></h2>
+<h2 align="center">I'm Valentin from Caen, France <img src="https://media.tenor.com/PSz9yllgHT4AAAAC/mouse-wave-flag.gif" width="50"/></h2>
 
 
 
