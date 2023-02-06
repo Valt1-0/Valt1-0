@@ -1,6 +1,6 @@
 <h1><img src="https://media0.giphy.com/media/jpbnoe3UIa8TU8LM13/200w.webp?cid=ecf05e47d8cfaagmmar1dfiwjx5wd49llzyezwbeditfzyau&rid=200w.webp&ct=g" width="30"/> Hey ! Nice to see you here.</h1>
 
-<h2 align="center">I'm Valentin from Caen, France <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="25"/></h2>
+<h2 align="center">I'm Valentin from Caen, France <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="20"/></h2>
 
 
 
