@@ -32,5 +32,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=valt1-0&show_icons=true&locale=en&layout=compact" alt="valt1-0" /></p>
 
-
-<script src="https://tryhackme.com/badge/1915712"></script>
+<img src="https://tryhackme-badges.s3.amazonaws.com/Valt.png" alt="TryHackMe">
