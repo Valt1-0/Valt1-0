@@ -32,4 +32,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=valt1-0&show_icons=true&locale=en&layout=compact" alt="valt1-0" /></p>
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/Valt.png" alt="TryHackMe">
+![THM](https://tryhackme-badges.s3.amazonaws.com/Valt.png)
