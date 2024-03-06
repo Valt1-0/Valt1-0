@@ -61,12 +61,12 @@ https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&log
     <p>
       <img alt="Jest" src="https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white" />
       <img alt="Chai" src="https://img.shields.io/badge/chai.js-323330?style=for-the-badge&logo=chai&logoColor=red" />
-      <img alt="Mocha" src="https://img.shields.io/badge/mocha.js-323330?style=for-the-badge&logo=mocha&logoColor=Brown" />
+      <img alt="Mocha" src="https://img.shields.io/badge/mocha.js-323330?style=flat-square&logo=mocha&logoColor=Brown" />
     </p>
 </p>
 
 <p>
-  <img alt ="Cloudflare" src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white"/>
+  <img alt ="Cloudflare" src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=Cloudflare&logoColor=white"/>
 </p>
 
 <h2>OS Already use</h2>
