@@ -1,4 +1,4 @@
-<h1><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWc4c253djJvY2ZsZTh4cmRuODlmcnlmb243cDdwanFpem9oaDR6ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vBTxCPUwfC6ddBsTbs/giphy.gif" width="30"/> Hey ! Nice to see you here.</h1>
+<h1><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWc4c253djJvY2ZsZTh4cmRuODlmcnlmb243cDdwanFpem9oaDR6ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vBTxCPUwfC6ddBsTbs/giphy.gif" width="100"/> Hey ! Nice to see you here.</h1>
 
 <h2 align="center">I'm Valentin, I'm an IT Student from Caen, France <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="20"/></h2>
 
