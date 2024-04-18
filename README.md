@@ -65,8 +65,8 @@
 ### Testing
 
 ![Jest](https://img.shields.io/badge/Jest-323330?style=flat&logo=Jest&logoColor=white)
-![Chai](https://img.shields.io/badge/chai.js-323330?style=flat&logo=chai&logoColor=red)
-![Mocha](https://img.shields.io/badge/mocha.js-323330?style=flat&logo=mocha&logoColor=Brown)
+![Chai](https://img.shields.io/badge/Chai.js-323330?style=flat&logo=chai&logoColor=red)
+![Mocha](https://img.shields.io/badge/Mocha.js-323330?style=flat&logo=mocha&logoColor=Brown)
 
 
 ###
