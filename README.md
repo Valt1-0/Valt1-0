@@ -46,6 +46,7 @@
 
 ![Docker](https://img.shields.io/badge/-Docker-46a2f1?style=flat&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326DE6?style=flat&logo=kubernetes&logoColor=white)
+![Helm](https://img.shields.io/badge/Helm-326DE6?style=flat&logo=helm&logoColor=white)
 
 ### Databases
 
