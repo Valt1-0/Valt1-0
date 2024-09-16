@@ -27,7 +27,7 @@
 ### Library
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![NodeJS](https://img.shields.io/badge/-Nodejs-43853d?style=flat&logo=Node.js&logoColor=white)
+![NodeJS](https://img.shields.io/badge/-Node.js-43853d?style=flat&logo=Node.js&logoColor=white)
 
 ### Tools
 
