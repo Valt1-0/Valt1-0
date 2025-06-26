@@ -2,7 +2,6 @@
 
 <h2 align="middle"> I'm Valentin, I'm an IT Student from Caen, France <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="20"/></h2>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=valt1-0" alt="valt1-0" /></a>
 
 ### Languages
 
